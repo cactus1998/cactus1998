@@ -25,4 +25,3 @@
 | [lottery-battle](https://github.com/cactus1998/lottery-battle) · [Demo](https://kentfolio.dev/lottery-battle/) | 抽獎大亂鬥：隨機職業的像素小人偶混戰抽獎 | React 19, Canvas |
 | [portfolio](https://github.com/cactus1998/portfolio) · [Demo](https://kentfolio.dev/) | 個人作品集網站 | Vue 3, Three.js, GSAP |
 | [fishing-shop](https://github.com/cactus1998/fishing-shop) · [Demo](https://kentfolio.dev/fishing-shop/) | 釣魚捲線器購物前台 | Vue 3, Pinia, Firebase |
-| [Jellyfish](https://github.com/cactus1998/Jellyfish) | Discord 最高同時在線人數統計機器人 | Node.js, discord.js |
