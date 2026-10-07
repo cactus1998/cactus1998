@@ -20,8 +20,8 @@
 
 | 專案 | 說明 | 技術 |
 |------|------|------|
+| [aiot-monitor](https://github.com/cactus1998/aiot-monitor) · [Demo](https://kentfolio.dev/aiot-monitor/) | 機台戰情室：模擬工廠機台資料，即時與歷史視覺化 | Vue 3, ECharts, Node.js, SQLite |
 | [function-library](https://github.com/cactus1998/function-library) · [Demo](https://kentfolio.dev/function-library/) | 前端常見難題的可互動實作：虛擬列表、指令面板、拖放看板、跨分頁購物車 | Vue 3, TypeScript |
-| [aiot-monitor](https://github.com/cactus1998/aiot-monitor) | 機台戰情室：模擬工廠機台資料，即時與歷史視覺化 | Vue 3, ECharts, Node.js, SQLite |
 | [lottery-battle](https://github.com/cactus1998/lottery-battle) · [Demo](https://kentfolio.dev/lottery-battle/) | 抽獎大亂鬥：隨機職業的像素小人偶混戰抽獎 | React 19, Canvas |
 | [portfolio](https://github.com/cactus1998/portfolio) · [Demo](https://kentfolio.dev/) | 個人作品集網站 | Vue 3, Three.js, GSAP |
 | [fishing-shop](https://github.com/cactus1998/fishing-shop) · [Demo](https://kentfolio.dev/fishing-shop/) | 釣魚捲線器購物前台 | Vue 3, Pinia, Firebase |
