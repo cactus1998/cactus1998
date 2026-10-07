@@ -1,6 +1,6 @@
 # Hi, I'm Kent 👋
 
-前端工程師，專注於 **Vue 3 / TypeScript**，也寫 React 與 Node.js。喜歡把互動體驗與資料視覺化做得流暢好用。
+前端工程師，專注於 **Vue 3 / TypeScript**，也寫 React 與 Node.js。
 
 🌐 作品集：[kentfolio.dev](https://kentfolio.dev/)
 
