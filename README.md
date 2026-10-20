@@ -24,4 +24,4 @@
 | [function-library](https://github.com/cactus1998/function-library) · [Demo](https://kentfolio.dev/function-library/) | 前端常見難題的可互動實作：虛擬列表、指令面板、拖放看板、跨分頁購物車 | Vue 3, TypeScript |
 | [lottery-battle](https://github.com/cactus1998/lottery-battle) · [Demo](https://kentfolio.dev/lottery-battle/) | 抽獎大亂鬥：隨機職業的像素小人偶混戰抽獎 | React 19, Canvas |
 | [portfolio](https://github.com/cactus1998/portfolio) · [Demo](https://kentfolio.dev/) | 個人作品集網站 | Vue 3, Three.js, GSAP |
-| [fishing-shop](https://github.com/cactus1998/fishing-shop) · [Demo](https://kentfolio.dev/fishing-shop/) | 釣魚捲線器購物前台 | Vue 3, Pinia, Firebase |
+| 樂咖大物輪 · [形象頁](https://kentfolio.dev/fishing-reel/) · [購物前台](https://kentfolio.dev/fishing-shop/) · [後台](https://kentfolio.dev/fishing-shop-backstage/) | 釣魚捲線器品牌網站：形象頁、購物前台與後台管理（monorepo，原始碼未公開） | Vue 3, Pinia, Firestore, Firebase Auth |
